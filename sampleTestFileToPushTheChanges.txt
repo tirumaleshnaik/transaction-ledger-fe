@@ -1,1 +1,3 @@
 Added sample commit for pushing the changes from machine
+
+new line added
